@@ -9,4 +9,4 @@ From my findings i have been able to show that :
 4. The Duration of movies does not determine their Ratings
 LIMITATIONS:
 The cast column could have been cleaned by removing the '|' charater but it was not needed for our findings.
-The Movies Revenue VS Movies Popularity could have been plot with a bigger scale to enlarge the visualization.
+The Movies-Revenue VS Movies-Popularity could have been plotted with a bigger scale to enlarge the visualization.
