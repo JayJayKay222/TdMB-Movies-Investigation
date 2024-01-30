@@ -2,7 +2,7 @@
 
 
 Conclusions
-From my findings i have been able to show that :
+From my findings I have been able to show that :
 1. There has been an exponential increase in the prduction of movies over the years.
 2. Drama genre produced most movies in 2015 with a total of 260 movies.
 3. Movies with lower Revenue has lower movie Rating and this translate that the popuarity of a movie does not determine the total income of a movie.
